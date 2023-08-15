@@ -1,0 +1,902 @@
+{ 
+"customer_id":1037,
+"Date":"March 2020",
+"Customer_Name":"Connell Victoria",
+"Customer_Gender":"Female",
+"Country":"USA",
+"Address":{
+    "Location":"Glenwood Route", 
+    "Number":"1074}"},
+"Product":"Eggs",
+"Order_Quantity":10,
+"Unit_Cost_USD":77,
+"Unit_Price_USD":24
+},
+{ 
+"customer_id":1038,
+"Date":"November 2022",
+"Customer_Name":"Mcgee Peyton",
+"Customer_Gender":"Female",
+"Country":"USA",
+"Address":{
+    "Location":"Meadow Boulevard", 
+    "Number":"8980"},
+"Product":"Baby-care",
+"Order_Quantity":8,
+"Unit_Cost_USD":66,
+"Unit_Price_USD":16
+},
+{ 
+"customer_id":1039,
+"Date":"June 2021",
+"Customer_Name":"Amstead Janice",
+"Customer_Gender":"Female",
+"Country":"Nigeria",
+"Address":{
+    "Location":"Ben Hill", 
+    "Number":"6999"},
+"Product":"Tea",
+"Order_Quantity":7,
+"Unit_Cost_USD":39,
+"Unit_Price_USD":60
+},
+{ 
+"customer_id":1040,
+"Date":"August 2020",
+"Customer_Name":"Jones Tony",
+"Customer_Gender":"Male",
+"Country":"Canada",
+"Address":{
+    "Location":"Anns Vale", 
+    "Number":"2198"},
+"Product":"Mustard",
+"Order_Quantity":11,
+"Unit_Cost_USD":18,
+"Unit_Price_USD":48
+},
+{ 
+"customer_id":1041,
+"Date":"January 2020",
+"Customer_Name":"Brooks Violet",
+"Customer_Gender":"Female",
+"Country":"Australia",
+"Address":{
+    "Location":"Calverley Lane", 
+    "Number":"1994"},
+"Product":"Dishware",
+"Order_Quantity":11,
+"Unit_Cost_USD":78,
+"Unit_Price_USD":62
+},
+{ 
+"customer_id":1042,
+"Date":"January 2022",
+"Customer_Name":"Stark Carter",
+"Customer_Gender":"Male",
+"Country":"Canada",
+"Address":{
+    "Location":"Vincent Pass", 
+    "Number":"9598"},
+"Product":"Tomato sauce",
+"Order_Quantity":2,
+"Unit_Cost_USD":92,
+"Unit_Price_USD":26
+},
+{ 
+"customer_id":1043,
+"Date":"May 2019",
+"Customer_Name":"Alexander Eileen",
+"Customer_Gender":"Female",
+"Country":"Canada",
+"Address":{
+    "Location":"Beechen Grove", 
+    "Number":"4560"},
+"Product":"Pet foods",
+"Order_Quantity":18,
+"Unit_Cost_USD":20,
+"Unit_Price_USD":56
+},
+{ 
+"customer_id":1044,
+"Date":"February 2021",
+"Customer_Name":"Fox Enoch",
+"Customer_Gender":"Male",
+"Country":"Canada",
+"Address":{
+    "Location":"Cable Vale", 
+    "Number":"3149"},
+"Product":"Detergents",
+"Order_Quantity":18,
+"Unit_Cost_USD":85,
+"Unit_Price_USD":59
+},
+{ 
+"customer_id":1045,
+"Date":"August 2021",
+"Customer_Name":"Brooks Maribel",
+"Customer_Gender":"Female",
+"Country":"Australia",
+"Address":{
+    "Location":"Chestnut Rise Crossroad", 
+    "Number":"1991"},
+"Product":"Detergents",
+"Order_Quantity":9,
+"Unit_Cost_USD":94,
+"Unit_Price_USD":56
+},
+{ 
+"customer_id":1046,
+"Date":"November 2019",
+"Customer_Name":"Radley Quinn",
+"Customer_Gender":"Female",
+"Country":"Australia",
+"Address":{
+    "Location":"Yorkshire Avenue", 
+    "Number":"890"},
+"Product":"Bakery products",
+"Order_Quantity":13,
+"Unit_Cost_USD":24,
+"Unit_Price_USD":64
+},
+{ 
+"customer_id":1047,
+"Date":"May 2022",
+"Customer_Name":"Allwood Evelynn",
+"Customer_Gender":"Female",
+"Country":"Nigeria",
+"Address":{
+    "Location":"Apostle Hill", 
+    "Number":"7385"},
+"Product":"Vegetables",
+"Order_Quantity":11,
+"Unit_Cost_USD":36,
+"Unit_Price_USD":87
+},
+{ 
+"customer_id":1048,
+"Date":"May 2021",
+"Customer_Name":"Clark Manuel",
+"Customer_Gender":"Male",
+"Country":"Canada",
+"Address":{
+    "Location":"Boadicea Road", 
+    "Number":"7184"},
+"Product":"Tomato sauce",
+"Order_Quantity":10,
+"Unit_Cost_USD":52,
+"Unit_Price_USD":17
+},
+{ 
+"customer_id":1049,
+"Date":"October 2019",
+"Customer_Name":"Ellery Lynn",
+"Customer_Gender":"Female",
+"Country":"Madagascar",
+"Address":{
+    "Location":"Belfort Lane", 
+    "Number":"4476"},
+"Product":"Frozen foods",
+"Order_Quantity":11,
+"Unit_Cost_USD":8,
+"Unit_Price_USD":74
+},
+{ 
+"customer_id":1050,
+"Date":"August 2021",
+"Customer_Name":"Wilson Rhea",
+"Customer_Gender":"Female",
+"Country":"Nigeria",
+"Address":{
+    "Location":"Durnford Grove", 
+    "Number":"896"},
+"Product":"Bottled waters",
+"Order_Quantity":18,
+"Unit_Cost_USD":30,
+"Unit_Price_USD":47
+},
+{ 
+"customer_id":1051,
+"Date":"October 2020",
+"Customer_Name":"Chadwick Andie",
+"Customer_Gender":"Female",
+"Country":"USA",
+"Address":{
+    "Location":"Bigland Route", 
+    "Number":"8703"},
+"Product":"Medicines",
+"Order_Quantity":8,
+"Unit_Cost_USD":31,
+"Unit_Price_USD":86
+},
+{ 
+"customer_id":1052,
+"Date":"March 2020",
+"Customer_Name":"Young Evelynn",
+"Customer_Gender":"Female",
+"Country":"Australia",
+"Address":{
+    "Location":"Ensign Boulevard", 
+    "Number":"4479"},
+"Product":"Candies",
+"Order_Quantity":18,
+"Unit_Cost_USD":54,
+"Unit_Price_USD":64
+},
+{ 
+"customer_id":1053,
+"Date":"November 2020",
+"Customer_Name":"Morrow Sara",
+"Customer_Gender":"Female",
+"Country":"Australia",
+"Address":{
+    "Location":"Capeners Grove", 
+    "Number":"6104"},
+"Product":"Personal Care",
+"Order_Quantity":4,
+"Unit_Cost_USD":61,
+"Unit_Price_USD":61
+},
+{ 
+"customer_id":1054,
+"Date":"April 2021",
+"Customer_Name":"Morris Tyler",
+"Customer_Gender":"Male",
+"Country":"Canada",
+"Address":{
+    "Location":"Wake Way", 
+    "Number":"1022"},
+"Product":"Candies",
+"Order_Quantity":12,
+"Unit_Cost_USD":20,
+"Unit_Price_USD":66
+},
+{ 
+"customer_id":1055,
+"Date":"January 2022",
+"Customer_Name":"Upsdell Deborah",
+"Customer_Gender":"Female",
+"Country":"Australia",
+"Address":{
+    "Location":"Cavell Vale", 
+    "Number":"1529"},
+"Product":"White rice",
+"Order_Quantity":1,
+"Unit_Cost_USD":86,
+"Unit_Price_USD":92
+},
+{ 
+"customer_id":1056,
+"Date":"November 2021",
+"Customer_Name":"Upton Carrie",
+"Customer_Gender":"Female",
+"Country":"USA",
+"Address":{
+    "Location":"Coalecroft Pass", 
+    "Number":"8226"},
+"Product":"Paper Goods",
+"Order_Quantity":12,
+"Unit_Cost_USD":14,
+"Unit_Price_USD":6
+},
+{ 
+"customer_id":1057,
+"Date":"January 2022",
+"Customer_Name":"Owen Hayden",
+"Customer_Gender":"Male",
+"Country":"USA",
+"Address":{
+    "Location":"Bekesbourne Lane", 
+    "Number":"9905"},
+"Product":"Brown rice",
+"Order_Quantity":18,
+"Unit_Cost_USD":22,
+"Unit_Price_USD":74
+},
+{ 
+"customer_id":1057,
+"Date":"January 2022",
+"Customer_Name":"Owen Hayden",
+"Customer_Gender":"Male",
+"Country":"USA",
+"Address":{
+    "Location":"Bekesbourne Lane", 
+    "Number":"9905"},
+"Product":"Brown rice",
+"Order_Quantity":18,
+"Unit_Cost_USD":22,
+"Unit_Price_USD":74
+},
+{ 
+"customer_id":1058,
+"Date":"November 2021",
+"Customer_Name":"Stevens Francesca",
+"Customer_Gender":"Female",
+"Country":"USA",
+"Address":{
+    "Location":"Fair Street", 
+    "Number":"3219"},
+"Product":"Ground turkey",
+"Order_Quantity":5,
+"Unit_Cost_USD":49,
+"Unit_Price_USD":95
+},
+{ 
+"customer_id":1059,
+"Date":"July 2019",
+"Customer_Name":"Selby Javier",
+"Customer_Gender":"Male",
+"Country":"USA",
+"Address":{
+    "Location":"Elia Way", 
+    "Number":"6461"},
+"Product":"Tea",
+"Order_Quantity":11,
+"Unit_Cost_USD":58,
+"Unit_Price_USD":53
+},
+{ 
+"customer_id":1060,
+"Date":"February 2019",
+"Customer_Name":"Blythe Enoch",
+"Customer_Gender":"Male",
+"Country":"USA",
+"Address":{
+    "Location":"Boleyn Lane", 
+    "Number":"2119"},
+"Product":"Sweets",
+"Order_Quantity":11,
+"Unit_Cost_USD":43,
+"Unit_Price_USD":31
+},
+{ 
+"customer_id":1061,
+"Date":"November 2022",
+"Customer_Name":"Jones Anthony",
+"Customer_Gender":"Male",
+"Country":"USA",
+"Address":{
+    "Location":"Wager Vale", 
+    "Number":"2721"},
+"Product":"Tomato sauce",
+"Order_Quantity":15,
+"Unit_Cost_USD":24,
+"Unit_Price_USD":63
+},
+{ 
+"customer_id":1062,
+"Date":"September 2021",
+"Customer_Name":"Buckley Carissa",
+"Customer_Gender":"Female",
+"Country":"USA",
+"Address":{
+    "Location":"Linda Lane Drive", 
+    "Number":"8177"},
+"Product":"Cheese",
+"Order_Quantity":19,
+"Unit_Cost_USD":51,
+"Unit_Price_USD":34
+},
+{ 
+"customer_id":1063,
+"Date":"May 2020",
+"Customer_Name":"Jenkin Angel",
+"Customer_Gender":"Female",
+"Country":"Nigeria",
+"Address":{
+    "Location":"Kingly Route", 
+    "Number":"3605"},
+"Product":"Ground turkey",
+"Order_Quantity":10,
+"Unit_Cost_USD":67,
+"Unit_Price_USD":61
+},
+{ 
+"customer_id":1064,
+"Date":"April 2020",
+"Customer_Name":"Ellison Beatrice",
+"Customer_Gender":"Female",
+"Country":"USA",
+"Address":{
+    "Location":"Waite Crossroad", 
+    "Number":"8246"},
+"Product":"Nonalcoholic beverages",
+"Order_Quantity":3,
+"Unit_Cost_USD":59,
+"Unit_Price_USD":61
+},
+{ 
+"customer_id":1065,
+"Date":"April 2022",
+"Customer_Name":"Allington Henry",
+"Customer_Gender":"Male",
+"Country":"Nigeria",
+"Address":{
+    "Location":"Battis Crossroad", 
+    "Number":"2033"},
+"Product":"Detergents",
+"Order_Quantity":15,
+"Unit_Cost_USD":87,
+"Unit_Price_USD":86
+},
+{ 
+"customer_id":1066,
+"Date":"June 2020",
+"Customer_Name":"Denton Michaela",
+"Customer_Gender":"Female",
+"Country":"Canada",
+"Address":{
+    "Location":"Cliff Tunnel", 
+    "Number":"3658"},
+"Product":"Cosmetics",
+"Order_Quantity":17,
+"Unit_Cost_USD":46,
+"Unit_Price_USD":95
+},
+{ 
+"customer_id":1067,
+"Date":"February 2022",
+"Customer_Name":"Russell Nate",
+"Customer_Gender":"Male",
+"Country":"Canada",
+"Address":{
+    "Location":"Collins Vale", 
+    "Number":"6887"},
+"Product":"Flour",
+"Order_Quantity":11,
+"Unit_Cost_USD":46,
+"Unit_Price_USD":14
+},
+{ 
+"customer_id":1068,
+"Date":"January 2019",
+"Customer_Name":"Kirby Bree",
+"Customer_Gender":"Female",
+"Country":"Australia",
+"Address":{
+    "Location":"Bekesbourne Avenue", 
+    "Number":"3087"},
+"Product":"",
+"Order_Quantity":14,
+"Unit_Cost_USD":17,
+"Unit_Price_USD":18
+},
+{ 
+"customer_id":1069,
+"Date":"August 2022",
+"Customer_Name":"Vane Deborah",
+"Customer_Gender":"Female",
+"Country":"Australia",
+"Address":{
+    "Location":"West Tunnel", 
+    "Number":"975"},
+"Product":"Detergents",
+"Order_Quantity":4,
+"Unit_Cost_USD":52,
+"Unit_Price_USD":7
+},
+{ 
+"customer_id":1070,
+"Date":"September 2019",
+"Customer_Name":"Eyres Kirsten",
+"Customer_Gender":"Female",
+"Country":"Australia",
+"Address":{
+    "Location":"Longleigh Street", 
+    "Number":"2145"},
+"Product":"Tea",
+"Order_Quantity":1,
+"Unit_Cost_USD":87,
+"Unit_Price_USD":56
+},
+{ 
+"customer_id":1071,
+"Date":"February 2019",
+"Customer_Name":"Latham Fred",
+"Customer_Gender":"Male",
+"Country":"Australia",
+"Address":{},
+"Product":"House-cleaning products",
+"Order_Quantity":15,
+"Unit_Cost_USD":50,
+"Unit_Price_USD":78
+},
+{ 
+"customer_id":1072,
+"Date":"November 2020",
+"Customer_Name":"Matthews Beatrice",
+"Customer_Gender":"Female",
+"Country":"Australia",
+"Address":{
+    "Location":"Camera Grove", 
+    "Number":"6533"},
+"Product":"Seafood",
+"Order_Quantity":16,
+"Unit_Cost_USD":67,
+"Unit_Price_USD":97
+},
+{ 
+"customer_id":1073,
+"Date":"October 2021",
+"Customer_Name":"Slater Carter",
+"Customer_Gender":"Male",
+"Country":"Australia",
+"Address":{
+    "Location":"Thurloe Hill", 
+    "Number":"6658"},
+"Product":"Brown rice",
+"Order_Quantity":4,
+"Unit_Cost_USD":82,
+"Unit_Price_USD":16
+},
+{ 
+"customer_id":1074,
+"Date":"September 2020",
+"Customer_Name":"Crawley Josh",
+"Customer_Gender":"Male",
+"Country":"USA",
+"Address":{
+    "Location":"Cliff Rue", 
+    "Number":"2970"},
+"Product":"Flour",
+"Order_Quantity":2,
+"Unit_Cost_USD":12,
+"Unit_Price_USD":16
+},
+{ 
+"customer_id":1075,
+"Date":"April 2021",
+"Customer_Name":"White Davina",
+"Customer_Gender":"Female",
+"Country":"USA",
+"Address":{
+    "Location":"Charnwood Vale", 
+    "Number":"1897"},
+"Product":"Tea",
+"Order_Quantity":2,
+"Unit_Cost_USD":13,
+"Unit_Price_USD":82
+},
+{ 
+"customer_id":1076,
+"Date":"May 2020",
+"Customer_Name":"Jacobs Matthew",
+"Customer_Gender":"Male",
+"Country":"Nigeria",
+"Address":{
+    "Location":"Becklow Crossroad", 
+    "Number":"8776"},
+"Product":"Tea",
+"Order_Quantity":12,
+"Unit_Cost_USD":83,
+"Unit_Price_USD":42
+},
+{ 
+"customer_id":1077,
+"Date":"September 2020",
+"Customer_Name":"Bristow Anthony",
+"Customer_Gender":"Male",
+"Country":"Australia",
+"Address":{
+    "Location":"Bempton Alley", 
+    "Number":"8525"},
+"Product":"Medicines",
+"Order_Quantity":14,
+"Unit_Cost_USD":75,
+"Unit_Price_USD":21
+},
+{ 
+"customer_id":1078,
+"Date":"June 2022",
+"Customer_Name":"Collins Lucas",
+"Customer_Gender":"Male",
+"Country":"Canada",
+"Address":{
+    "Location":"Wadham Boulevard", 
+    "Number":"4085"},
+"Product":"Sauces",
+"Order_Quantity":2,
+"Unit_Cost_USD":24,
+"Unit_Price_USD":90
+},
+{ 
+"customer_id":1079,
+"Date":"January 2022",
+"Customer_Name":"Thorpe Amy",
+"Customer_Gender":"Female",
+"Country":"Canada",
+"Address":{
+    "Location":"Blake Way", 
+    "Number":"9007"},
+"Product":"Coffee",
+"Order_Quantity":17,
+"Unit_Cost_USD":24,
+"Unit_Price_USD":15
+},
+{ 
+"customer_id":1080,
+"Date":"October 2021",
+"Customer_Name":"Lloyd Matthew",
+"Customer_Gender":"Male",
+"Country":"Nigeria",
+"Address":{},
+"Product":"Brown rice",
+"Order_Quantity":11,
+"Unit_Cost_USD":46,
+"Unit_Price_USD":41
+},
+{ 
+"customer_id":1081,
+"Date":"October 2019",
+"Customer_Name":"Hamilton Johnathan",
+"Customer_Gender":"Male",
+"Country":"Migeria",
+"Address":{
+    "Location":"Calvin Lane", 
+    "Number":"1556"},
+"Product":"Pasta",
+"Order_Quantity":10,
+"Unit_Cost_USD":18,
+"Unit_Price_USD":93
+},
+{ 
+"customer_id":1082,
+"Date":"November 2019",
+"Customer_Name":"Saunders Logan",
+"Customer_Gender":"Male",
+"Country":"Australia",
+"Address":{
+    "Location":"Fieldstone Rue", 
+    "Number":"9258"},
+"Product":"Brown rice",
+"Order_Quantity":12,
+"Unit_Cost_USD":96,
+"Unit_Price_USD":84
+},
+{ 
+"customer_id":1083,
+"Date":"December 2019",
+"Customer_Name":"Umney Wade",
+"Customer_Gender":"Male",
+"Country":"Canada",
+"Address":{
+    "Location":"Vine Vale", 
+    "Number":"3256"},
+"Product":"Paper Goods",
+"Order_Quantity":12,
+"Unit_Cost_USD":6,
+"Unit_Price_USD":54
+},
+{ 
+"customer_id":1084,
+"Date":"February 2019",
+"Customer_Name":"Newman Bryon",
+"Customer_Gender":"Male",
+"Country":"USA",
+"Address":{
+    "Location":"Babmaes Tunnel", 
+    "Number":"4729"},
+"Product":"Flowers",
+"Order_Quantity":15,
+"Unit_Cost_USD":23,
+"Unit_Price_USD":51
+},
+{ 
+"customer_id":1085,
+"Date":"March 2019",
+"Customer_Name":"Yang Bryon",
+"Customer_Gender":"Male",
+"Country":"Australia",
+"Address":{
+    "Location":"Rivervalley Walk", 
+    "Number":"5490"},
+"Product":"Chicken",
+"Order_Quantity":5,
+"Unit_Cost_USD":39,
+"Unit_Price_USD":47
+},
+{ 
+"customer_id":1086,
+"Date":"August 2019",
+"Customer_Name":"Ingram Ron",
+"Customer_Gender":"Male",
+"Country":"Australia",
+"Address":{
+    "Location":"Belfort Alley", 
+    "Number":"3099"},
+"Product":"Diet foods",
+"Order_Quantity":15,
+"Unit_Cost_USD":61,
+"Unit_Price_USD":27
+},
+{ 
+"customer_id":1087,
+"Date":"July 2021",
+"Customer_Name":"Vollans Nicholas",
+"Customer_Gender":"Male",
+"Country":"Canada",
+"Address":{
+    "Location":"Betton Vale", 
+    "Number":"7512"},
+"Product":"Coffee",
+"Order_Quantity":16,
+"Unit_Cost_USD":77,
+"Unit_Price_USD":40
+},
+{ 
+"customer_id":1088,
+"Date":"April 2022",
+"Customer_Name":"Doherty Jacob",
+"Customer_Gender":"Male",
+"Country":"Liberia",
+"Address":{
+    "Location":"Tilson Tunnel", 
+    "Number":"5248"},
+"Product":"Flowers",
+"Order_Quantity":1,
+"Unit_Cost_USD":18,
+"Unit_Price_USD":27000
+},
+{ 
+"customer_id":1089,
+"Date":"February 2021",
+"Customer_Name":"Whitmore Anthony",
+"Customer_Gender":"Male",
+"Country":"USA",
+"Address":{
+    "Location":"Viscount Way", 
+    "Number":"3931"},
+"Product":"Housewares",
+"Order_Quantity":18,
+"Unit_Cost_USD":53,
+"Unit_Price_USD":14
+},
+{ 
+"customer_id":1090,
+"Date":"October 2021",
+"Customer_Name":"Rycroft Ramon",
+"Customer_Gender":"Male",
+"Country":"Australia",
+"Address":{
+    "Location":"Railroad Street", 
+    "Number":"8025"},
+"Product":"Flour",
+"Order_Quantity":15,
+"Unit_Cost_USD":59,
+"Unit_Price_USD":69
+},
+{ 
+"customer_id":1091,
+"Date":"August 2022",
+"Customer_Name":"Buckley Luke",
+"Customer_Gender":"Male",
+"Country":"USA",
+"Address":{
+    "Location":"Fair Route", 
+    "Number":"6966"},
+"Product":"Dry Goods",
+"Order_Quantity":19,
+"Unit_Cost_USD":54,
+"Unit_Price_USD":48
+},
+{ 
+"customer_id":1092,
+"Date":"August 2019",
+"Customer_Name":"Middleton George",
+"Customer_Gender":"Male",
+"Country":"Nigeria",
+"Address":{
+    "Location":"Pine Drive", 
+    "Number":"8580"},
+"Product":"Alcoholic beverages",
+"Order_Quantity":3,
+"Unit_Cost_USD":91,
+"Unit_Price_USD":9
+},
+{ 
+"customer_id":1093,
+"Date":"September 2022",
+"Customer_Name":"Khan George",
+"Customer_Gender":"Male",
+"Country":"USA",
+"Address":{
+    "Location":"Bazely Lane", 
+    "Number":"1406"},
+"Product":"Ground turkey",
+"Order_Quantity":6,
+"Unit_Cost_USD":19,
+"Unit_Price_USD":30
+},
+{ 
+"customer_id":1094,
+"Date":"December 2021",
+"Customer_Name":"Boyle William",
+"Customer_Gender":"Male",
+"Country":"USA",
+"Address":{
+    "Location":"Andsell Walk", 
+    "Number":"7291"},
+"Product":"Alcoholic beverages",
+"Order_Quantity":11,
+"Unit_Cost_USD":61,
+"Unit_Price_USD":73
+},
+{ 
+"customer_id":1095,
+"Date":"May 2020",
+"Customer_Name":"Osman Peter",
+"Customer_Gender":"Male",
+"Country":"Canada",
+"Address":{
+    "Location":"Clerkenwell Grove", 
+    "Number":"4089"},
+"Product":"Flowers",
+"Order_Quantity":8,
+"Unit_Cost_USD":49,
+"Unit_Price_USD":30
+},
+{ 
+"customer_id":1096,
+"Date":"October 2021",
+"Customer_Name":"Poole Hayden",
+"Customer_Gender":"Male",
+"Country":"Australia",
+"Address":{
+    "Location":"Bellenden Route", 
+    "Number":"5010"},
+"Product":"Flowers",
+"Order_Quantity":16,
+"Unit_Cost_USD":82,
+"Unit_Price_USD":73
+},
+{ 
+"customer_id":1097,
+"Date":"November 2019",
+"Customer_Name":"Graham Barney",
+"Customer_Gender":"Male",
+"Country":"USA",
+"Address":{},
+"Product":"Sauces",
+"Order_Quantity":12,
+"Unit_Cost_USD":87,
+"Unit_Price_USD":94
+},
+{ 
+"customer_id":1098,
+"Date":"January 2021",
+"Customer_Name":"Potter Maxwell",
+"Customer_Gender":"Male",
+"Country":"Australia",
+"Address":{
+    "Location":"Elba Grove", 
+    "Number":"6223"},
+"Product":"Brown rice",
+"Order_Quantity":19,
+"Unit_Cost_USD":64,
+"Unit_Price_USD":78
+},
+{ 
+"customer_id":1099,
+"Date":"September 2021",
+"Customer_Name":"Gordon Johnathan",
+"Customer_Gender":"Male",
+"Country":"Australia",
+"Address":{},
+"Product":"Alcoholic beverages",
+"Order_Quantity":18,
+"Unit_Cost_USD":66,
+"Unit_Price_USD":29
+},
+{ 
+"customer_id":1100,
+"Date":"November 2020",
+"Customer_Name":"Lunt Chad",
+"Customer_Gender":"Male",
+"Country":"USA",
+"Address":{
+    "Location":"Blackwall Vale", 
+    "Number":"9778"},
+"Product":"Brown rice",
+"Order_Quantity":10,
+"Unit_Cost_USD":51,
+"Unit_Price_USD":33
+}
